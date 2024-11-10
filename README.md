@@ -53,7 +53,7 @@ while True:
         print("You are from CSE.")
     elif name == "yousuf":
         print("You are from ECE.")
-    elif name == "baseer":
+    elif name == "salman":
         print("You are from Civil Engineering.")
     elif name == "mateen":
         print("You are from CSE B section.")
